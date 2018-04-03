@@ -8,6 +8,12 @@ algorithm. For **educational purposes only**.
 
 ## Usage
 
+Print frequency tables for the given file.
+
+```
+main.py -v -i ./data/golf.csv -l "play golf"
+```
+
 ## Resources
 
 Several resources which might be helpful when studying this algorithm.
