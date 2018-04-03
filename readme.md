@@ -1,11 +1,24 @@
-# ObjectPositionCalc
+# Naive-Bayes classification
 
 ## Project goal
 
-Simple application for demonstration of a real world object position calculation.
-Dataset uses a moving vehicle with a camera on board to track road signs the real world position of which is to be calculated.
+Simple application for demonstration of a **Naive-Bayes Classification** 
+algorithm. For **educational purposes only**.
 
-## Prerequisites for building
+
+## Usage
+
+## Resources
+
+Several resources which might be helpful when studying this algorithm.
+
+[Wikipedia article](https://en.wikipedia.org/wiki/Naive_Bayes_classifier)
+
+[Youtube video with profound explanation](https://www.youtube.com/watch?v=XcwH9JGfZOU)
+
+[Article which covers the basics](https://www.analyticsvidhya.com/blog/2017/09/naive-bayes-explained/)
+
+[Stackoverflow thread](https://stackoverflow.com/questions/10059594/a-simple-explanation-of-naive-bayes-classification)
 
 ## Authors
 
